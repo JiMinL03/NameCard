@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">self-introduction-Card</string>
+    <string name="department">동의대학교 컴퓨터소프트웨어공학과</string>
+    <string name="intro">\" 끊임없이 배우고 성장하는 열정적인 개발자 \"</string>
+    <string name="call">010-6865-7521</string>
+    <string name="name">이지민</string>
+    <string name="email">wlalswwkd0@naver.com</string>
+    <string name="local">대한민국 부산광역시</string>
+    <string name="github">https://github.com/JiMinL03</string>
+</resources>
