@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/app_name"
-            android:layout_marginEnd="100dp"
+            android:layout_marginEnd="95dp"
             android:textSize="20sp" />
 
         <LinearLayout
@@ -33,18 +33,25 @@
             android:gravity="end|center_vertical">
 
             <Button
-                android:id="@+id/empty_heart"
-                android:layout_width="30dp"
-                android:layout_height="27dp"
+                android:id="@+id/empty_heartButt"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:background="@drawable/empty_heart" />
 
             <Button
-                android:id="@+id/save"
-                android:layout_width="30dp"
-                android:layout_height="27dp"
-                android:layout_marginEnd="10dp"
-                android:background="@drawable/save"
+                android:id="@+id/saveButt"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/emptysave"
                 android:layout_marginStart="10dp" />
+
+            <Button
+                android:id="@+id/downloadButt"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/download"
+                android:layout_marginStart="10dp"/>
         </LinearLayout>
     </LinearLayout>
 
@@ -78,8 +85,8 @@
             app:civ_border_overlay="true"
             app:civ_border_width="5dp"
             app:civ_border_color="#B6B6B6"
-            android:elevation="4dp"
-            android:translationZ="2dp"/>
+            android:elevation="10dp"
+            android:translationZ="5dp"/>
 
         <TextView
             android:layout_width="wrap_content"
