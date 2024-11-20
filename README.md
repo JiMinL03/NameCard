@@ -19,7 +19,7 @@
 ## 🖼️ **스크린샷**
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/5b7bff48-5665-49ee-8d3c-f28beef21578" width="45%" />
+    <img src="https://github.com/user-attachments/assets/46ca1bdf-b56a-44ed-ace8-04b48246ab61" width="45%" />
     <img src="https://github.com/user-attachments/assets/5c78fb5f-f0c3-4b1a-bc8b-a51365bf3629" width="45%" />
 </div>
 
